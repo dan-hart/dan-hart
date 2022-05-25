@@ -17,5 +17,7 @@ I’m an iOS Developer passionate about: developing applications, leading techni
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+Check out some of my [Swift repositories](https://github.com/dan-hart?tab=repositories&q=&type=public&language=swift&sort=stargazers)
+
 ### Please consider supporting me if you have found any of my code, software, or assistance helpful!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/codedbydan)
