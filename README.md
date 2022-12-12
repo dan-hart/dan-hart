@@ -2,9 +2,8 @@
 I’m an iOS Developer passionate about: developing applications, leading technical teams, & writing software to solve problems
 
 ![GitHub followers](https://img.shields.io/github/followers/dan-hart?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/codedbydan?style=social)
 ###
-Mastodon: [@codedbydan](https://mas.to/@codedbydan)
+Mastodon: https://mas.to/@codedbydan
 
 [![Dan Hart's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-hart)](https://github.com/dan-hart/github-readme-stats)
 
