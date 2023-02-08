@@ -5,7 +5,9 @@ I’m an iOS Developer passionate about: developing applications, leading techni
 ###
 Mastodon: https://mas.to/@codedbydan
 
-[![Dan Hart's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-hart)](https://github.com/dan-hart/github-readme-stats)
+[![Dan Hart's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-hart&theme=dark)](https://github.com/dan-hart/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dan-hart&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-hart&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 - 🔭 I’m currently working on `iOS Development`
 - 🌱 I’m currently learning `Python & Mustache`
